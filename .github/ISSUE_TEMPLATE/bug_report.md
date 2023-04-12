@@ -23,8 +23,9 @@ A clear and concise description of what you expected to happen.
 **Logs**
 If applicable, add log messages or screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+**Platform (please complete the following information):**
+ - OS: [e.g. Windows 11 or Fedora 37]
+ - Installation: [Windows installer / Portable (AppImage or Windows without exe) / deb]
  - Version [e.g. 0.1.2] (If it's not the latest one, please update and reproduce with it)
 
 **Additional context**
